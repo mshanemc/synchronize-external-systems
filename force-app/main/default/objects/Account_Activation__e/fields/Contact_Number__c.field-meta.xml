@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>Contact Number</label>
+    <type>Text</type>
+    <fullName>Contact_Number__c</fullName>
+    <length>255</length>
+</CustomField>
